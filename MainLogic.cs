@@ -175,8 +175,7 @@ namespace FirmwareGen
             }
         }
     }
-}using System.IO;
-using System.Text;
+}
 
 namespace FirmwareGen.Streams
 {
